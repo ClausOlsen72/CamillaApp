@@ -1,0 +1,1 @@
+C:\C#\CamillaApp\CamillaApp\CamillaApp.csproj;x86
